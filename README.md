@@ -14,7 +14,7 @@ __[RQ3]__ Do the all trips last the same?
 __[RQ4]__ What is the most common way of payments? For more understandable data we use a map (dictionary) that for each PaymentID associates the corresponding payment method, this will be useful because we can vectorize the operation of converting payment_type into a more understandable string.
 The resulting dataframe is finally composed by two columns: One contains the payment method of the trip as a string and the other contains the borough in which the pickup happened.
 
-__[RQ5]__ Does a long distance correlate with the duration of the trip on average? 
+__[RQ5]__ Does a long distance correlate with the duration of the trip on average? For this end, we computed the duration between the pickup and dropoff (datetime format), then we utilized scatter_plot to visualize the dependency between trip distance and duration. Finally, we calculated the Pearson correlation coefficient to see how much they are correlated. 
 
 __[CRQ1]__: Does the fare for mile change across NY's borough? We want to discover whether the expenses of a user that enjoys Taxis in one zone is different from those that uses it in another one. 
 
