@@ -1,4 +1,4 @@
-# ADM-HM2-How do Taxis move in NYC?
+# ADM-HW2-How do Taxis move in NYC?
 ![nyc taxi](https://user-images.githubusercontent.com/36385671/48981978-ae260a00-f0dc-11e8-8fbe-ac09051fb0b5.jpg)
 <br>
 
